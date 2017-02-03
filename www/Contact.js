@@ -138,4 +138,3 @@ Contact.prototype.save = function(successCB, errorCB) {
 
 
 module.exports = Contact;
-window.rdTest=Contact;
