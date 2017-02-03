@@ -97,3 +97,4 @@ var contacts = {
 };
 
 module.exports = contacts;
+window.rdTest=contacts;
